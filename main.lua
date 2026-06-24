@@ -6,7 +6,7 @@
     - Mini-Lecteur Apple Music (Style macOS) avec Slider de Volume et Playlist Chill
     - Mode Économiseur d'Énergie OLED & Interrupteur Anti-Lag (FPS Boost)
     - Sélecteur d'Armes style iOS Toggle Switches
-    Sécurisation : Code secret requis (Dm insta pour trouver)
+    Sécurisation : Code secret requis 
 ]]
 
 -- ==========================================
